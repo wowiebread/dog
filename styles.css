@@ -1,0 +1,23 @@
+table,th,td{
+border: 1px solid white;
+}
+body{
+    color: aliceblue;
+}
+
+body {
+    background-image:
+    url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnypost.com%2F2015%2F03%2F12%2https://nypost.com/wp-content/uploads/sites/2/2015/03/dieting_dachshund.jpg?quality=75&strip=all&w=1024Fthis-super-fat-dachshund-lost-75-percent-of-his-body-weight%2F&psig=AOvVaw3MLXEbNV-lJhV0IncUwUfz&ust=1706367247061000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCO5sCn-4MDFQAAAAAdAAAAABAD) ;
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    background-image: url("https://nypost.com/wp-content/uploads/sites/2/2015/03/dieting_dachshund.jpg?quality=75&strip=all&w=1024"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
